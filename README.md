@@ -9,7 +9,7 @@ In this portfolio, you will find an accumulation of work that I have created and
  4. Algorithm and Data Structures: Artifact and Justification Narrative
  5. Databases: Artifact and Justification Narrative
 
-![Nashville](https://github.com/MadelineMcN/MadelineMcN.github.io/blob/main/portfolio%20images/IMG_1404.jpeg)
+![Nashville](https://github.com/MadelineMcN/MadelineMcN.github.io/blob/main/portfolio%20images/IMG_1404%20copy.png)
 
 # 1. Professional Self-Assessment
 I have been in the Computer Science program since May of 2018. Up until recently, I took only 1-2 classes per semester as I work full time. I have learned so much in this computer science program. I feel like the program is well-structured and new concepts build on previous courses. One skill that was immediately useful to me was the concept of using git. Being able to move code from a remote repository to a local machine (and vis versa) has allowed me to collaborate with classmates and coworkers. Another concept that I have learned in this program is data structures and algorithms. This concept is discussed and tested in most technical interviews for software engineering roles and is the basis for how efficient code is developed. The technology I have learned in order to complete this program feels like one of the most important aspects of this program. I have learned 4-5 programming languages, two or more query languages, multiple databases, unit testing, UML, etc. These are all technologies that I either use in my current role or can use in future role. During my capstone, I learned to refine these skills, review code and identify areas of improvement, organized my codebases in a way that is ideal for collaboration, and justify my reasoning behind modifications.
